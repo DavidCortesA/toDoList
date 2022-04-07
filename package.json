@@ -1,0 +1,11 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Página que nos ayuda a organizar nuestro dia de cosas por hacer.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Cortez <david.cortes.ayala@hotmail.com>",
+  "license": "MIT"
+}
